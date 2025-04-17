@@ -822,4 +822,8 @@
   <block id="dd0e59dbbbb851076ddfea2660d5a696" category="paragraph">9.15.1 P7修补程序现在可用于所有云提供商的Cloud Volumes ONTAP。BlueXP将提示您将现有系统升级到此修补程序版本。</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link-macro">查看P7修补程序中已修复的错误列表</block>
   <block id="4e03a43ea47aeb577c42f9ad324a3454" category="paragraph"><block ref="f1b8440cb42692a81435e657f5965214" category="inline-link-macro-rx"></block> (需要登录NetApp支持站点)。</block>
+  <block id="91091878edec991a94dc77ddb63a59bf" category="section-title">9.15.1 P8 (2025年4月17日)</block>
+  <block id="77b3ec915fd6de5dcc6c7a7f37e3e15c" category="paragraph">9.15.1 P8修补程序现在可用于所有云提供商的Cloud Volumes ONTAP。BlueXP将提示您将现有系统升级到此修补程序版本。</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">查看P8修补程序中已修复的错误列表</block>
+  <block id="b648a8dcdb79fe604205b1a88a989f8a" category="paragraph"><block ref="0e9162f512f30fecd64e4fc5cb3134b7" category="inline-link-macro-rx"></block> (需要登录NetApp支持站点)。</block>
 </blocks>
