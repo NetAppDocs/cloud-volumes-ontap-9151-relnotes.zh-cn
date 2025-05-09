@@ -36,6 +36,14 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+== 9.15.1 P7 (2025年3月10日)
+
+9.15.1 P7修补程序现在可用于所有云提供商的Cloud Volumes ONTAP。BlueXP将提示您将现有系统升级到此修补程序版本。
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P7["查看P7修补程序中已修复的错误列表"^] (需要登录NetApp支持站点)。
+
+
+
 == 9.15.1(六.25年1月20日)
 
 现在、所有云提供商均可使用适用于Cloud Volumes ONTAP的9.15.1 p6修补程序。BlueXP将提示您将现有系统升级到此修补程序版本。
@@ -92,7 +100,7 @@ Cloud Volumes ONTAP 9.151 GA现已在AWS、Azure和Google Cloud中推出。GA版
 
 
 
-=== 支持Azure上的高级SSD v2托管磁盘
+=== 支持Azure中的高级SSD v2托管磁盘
 
 Azure上的Cloud Volumes ONTAP系统现在支持高级SSD v2托管磁盘。与高级SSD托管磁盘相比、这些高级磁盘可以为单节点和高可用性(HA)对提供更高的性能、更低的延迟以及更低的成本。与其他受管磁盘一样、最大磁盘大小为32 TiB。可以配置高级SSD v2托管磁盘的性能(容量、吞吐量和IOPS)、从而在满足不断变化的性能需求的同时、经济高效地处理工作负载。
 
@@ -100,7 +108,7 @@ https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-storage.html#az
 
 
 
-=== 在Azure上的单个可用性区域中部署HA对
+=== 在Azure的单个可用性区域中部署HA对
 
 从Cloud Volumes ONTAP 9.15.1开始、您可以在Azure的单可用性区域(Single Availability Zones、AZs)中以HA模式部署虚拟机(VM)实例。与先前的非分区部署不同、Cloud Volumes ONTAP 9.15.1在灵活的流程编排模式下使用Microsoft虚拟机扩展集来部署所有资源、包括在同一可用性分区中部署不同的容错域、从而确保最佳可用性。默认情况下、此部署模式会在满足以下条件时使用高级SSD v2托管磁盘：
 
