@@ -833,4 +833,8 @@
   <block id="1832a3006fd64b4265a68064e45a1e74" category="paragraph">9.15.1 P10修补程序现在可用于所有云提供商的Cloud Volumes ONTAP。BlueXP将提示您将现有系统升级到此修补程序版本。</block>
   <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link-macro">查看P10修补程序中已修复的错误列表</block>
   <block id="3c20f15522136e1c2bb7a26b742d9c3f" category="paragraph"><block ref="80808db670fbf104d60eaba92d8bd4d0" category="inline-link-macro-rx"></block> (需要登录NetApp支持站点)。</block>
+  <block id="0be8449d2926b8d3dca1bcdf99bf9e42" category="section-title">9.15.1 P11（2025 年 7 月 4 日）</block>
+  <block id="21d13ae0920cc60798a6732ad38d483e" category="paragraph">9.15.1 P11修补程序现在可用于所有云提供商的Cloud Volumes ONTAP。BlueXP将提示您将现有系统升级到此修补程序版本。</block>
+  <block id="4d51ff14f4691186785e9ce841b8db7c" category="inline-link-macro">查看P11修补程序中已修复的错误列表</block>
+  <block id="53ada277b14da25d31bb7f3d103a6163" category="paragraph"><block ref="c1097ddb08efba068505acb744b61722" category="inline-link-macro-rx"></block> (需要登录NetApp支持站点)。</block>
 </blocks>
